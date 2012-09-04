@@ -18,6 +18,7 @@ Static __aLstTabCal	:= {}
 Static __aLstTabTno	:= {}	
 Static __cKeyBldCal	:= "__cKeyBldCal"
 Static __nFilTabTno	:= 0
+Static __nFilTabTno2	:= 0
 /*/
 旼컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴커
 � Static Utilizadas na fTabPadrao()  						   �
